@@ -1,0 +1,20 @@
+{
+  "name": "web-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.io/redlux002/web-blog",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redlux002/web-blog.git"
+  },
+  "author": "Francis Gabuyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redlux002/web-blog/issues"
+  }
+}
